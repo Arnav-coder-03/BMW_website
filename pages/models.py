@@ -45,35 +45,35 @@ cars = [
     },
     {
         "name": "THE NEW ALL-ELECTRIC BMW iX xDRIVE50",
-        "image": "artifact/images\pexels-dbaler-13627418.jpg",
+        "image": "artifact/images/pexels-dbaler-13627418.jpg",
         "fuel": "Full-Electric",
         "price": "₹ 1,39,50,000",
         "new": True
     },
     {
         "name": "THE FULLY ELECTRIC BMW i4",
-        "image": "artifact/images\pexels-egeardaphotos-2148533277-30433742.jpg",
+        "image": "artifact/images/pexels-egeardaphotos-2148533277-30433742.jpg",
         "fuel": "Full-Electric",
         "price": "₹ 72,50,000",
         "new": False
     },
     {
         "name": "THE FULLY ELECTRIC BMW i7",
-        "image": "artifact/images\pexels-framesbyambro-14850149.jpg",
+        "image": "artifact/images/pexels-framesbyambro-14850149.jpg",
         "fuel": "Full-Electric",
         "price": "₹ 2,05,00,000",
         "new": False
     },
     {
         "name": "THE FIRST-EVER BMW i7 M70 xDRIVE",
-        "image": "artifact/images\pexels-saimon-8253060.jpg",
+        "image": "artifact/images/pexels-saimon-8253060.jpg",
         "fuel": "Full-Electric",
         "price": "₹ 2,50,00,000",
         "new": False
     },
     {
         "name": "THE FIRST-EVER BMW i5 M60 xDRIVE",
-        "image": "artifact/images\P90505039_highRes_the-new-bmw-i5-m60-x.jpg",
+        "image": "artifact/images/P90505039_highRes_the-new-bmw-i5-m60-x.jpg",
         "fuel": "Full-Electric",
         "price": "₹ 1,19,50,000",
         "new": True
